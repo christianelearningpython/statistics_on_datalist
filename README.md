@@ -12,6 +12,8 @@ Fonctionnalités
 - Comptage des nombres supérieurs à la moyenne
 - Affichage de chaque étape pour bien visualiser la transformation des données
 
+![Exemple d'exécution](statistics_on_datalist.png)
+
 Ce que j'ai appris
 - Récupérer une saisie avec input() et la découper avec split()
 - Manipuler les listes : len(), append(), parcours avec for
